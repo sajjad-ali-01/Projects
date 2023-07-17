@@ -1,0 +1,20 @@
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe.config
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\bin\Debug\Assignment 4.pdb
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.AssemblyReference.cache
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment_4.Form1.resources
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment_4.Properties.Resources.resources
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.GenerateResource.cache
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.exe
+C:\Users\Legecy\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.pdb
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe.config
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\bin\Debug\Assignment 4.pdb
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.AssemblyReference.cache
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment_4.Form1.resources
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment_4.Properties.Resources.resources
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.GenerateResource.cache
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.exe
+C:\Users\SHAHAZAD AHMAD\Desktop\Assignment 4\Assignment 4\obj\Debug\Assignment 4.pdb
