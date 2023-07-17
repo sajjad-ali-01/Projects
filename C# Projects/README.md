@@ -1,4 +1,5 @@
 # C-Sharp Projects
--> A Sipmle Calculator in C#
--> A GPA Calculator in C#
+1. A Sipmle Calculator in C#
+
+2. GPA Calculator in C#
 
