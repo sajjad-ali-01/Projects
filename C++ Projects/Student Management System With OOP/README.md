@@ -37,7 +37,7 @@ The Student Management System provides the following features:
 
 ## Contributors
 
-- [Sajjad Ali](linkedin/in/sajjadali116
+- [Sajjad Ali](linkedin.com/in/sajjadali116)
 - [M. Faseeh]
 
 ## License
