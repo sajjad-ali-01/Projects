@@ -1,28 +1,44 @@
-# Library Management System
-# About
-Our project is a library management system developed in C++ using data structures.
+# Student Management System
 
-# Data Structures Used
-• Queues • BST • Linked List • Hashing
+This repository contains the code for a Student Management System, which allows administrators, teachers, and students to manage student and teacher records. The system is implemented in C++.
 
-# IDEA 
-Idea of this project is to facilitate LIBRARY MANAGEMENT
-SYSTEM. This project will contain the following main features.
-1. Exit
-2. Display All Books
-3. Insert a Book
-4. Delete a Book
-5. Search Book By Name
-6. Issue Book to a person
-7. Return Book
-8. Display Issued books
+## Features
 
-# Details
-• Insert books
-User can input All data of books such as Name of the book,
-author name
-• You can search the search a particular book by its name
-• You can see all books present in your library
-• It can also have the record of issued books to persons
-• Delete’s a particular book
-• If a book return then it will be restore in its place
+The Student Management System provides the following features:
+
+1. **Administrator**: The administrator can perform the following tasks:
+   - Add, update, and delete teacher records
+   - View teacher details
+   - Add, update, and delete student records
+   - View student details
+
+2. **Teacher**: The teacher can perform the following tasks:
+   - Search for a student's details based on their roll number
+   - Display all students' details
+   - View their own information
+
+3. **Student**: The student can perform the following tasks:
+   - Search for their own details based on their roll number
+
+4. **Login and Registration**: The system includes a login and registration functionality. New users can register with a default username and password provided by the administrator.
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Compile the code using a C++ compiler (e.g., g++).
+3. Run the compiled executable to start the Student Management System.
+4. Follow the on-screen instructions to navigate through different options and perform various tasks.
+
+## Additional Notes
+
+- The Student and Teacher records are stored in separate text files (`Student.txt` and `teacher.txt`) as tab-separated values.
+- The login credentials for all users are stored in `login.txt` in the format: `<username> <password>`.
+- The system provides options for administrators, teachers, and students to manage their respective records.
+
+## Contributors
+
+- [Sajjad Ali](linkedin/in/sajjadali116
+- [M. Faseeh]
+
+## License
+
