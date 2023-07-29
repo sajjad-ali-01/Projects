@@ -6,8 +6,6 @@ This repository contains various projects developed using different technologies
 
 ## Projects
 
-### Web Development
-
 ### C++
 - **Student Management System**: The Student Management System is a C++ project that demonstrates **object-oriented programming (OOP)** concepts. It allows administrators to manage student records efficiently.
 
