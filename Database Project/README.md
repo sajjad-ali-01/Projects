@@ -4,11 +4,11 @@ This project is a **Restaurant Management System** designed to store and manage 
 ## Database Setup:
 Before setting up the Restaurant Management System project, ensure that you have the following software and components installed:
 
-1. Oracle 21C software: Install Oracle 21C software on your machine following the instructions provided by Oracle.
+1 Oracle 21C software: Install Oracle 21C software on your machine following the instructions provided by Oracle.
 
-2. Database Creation: Create a new database in Oracle 21C using SQL*Plus or SQL Developer. Refer to the Oracle documentation for instructions on creating a database.
+2 Database Creation: Create a new database in Oracle 21C using SQL*Plus or SQL Developer. Refer to the Oracle documentation for instructions on creating a database.
 
-3. Import SQL File: Locate the provided ".sql" file and import it into your Oracle 21C database using SQL*Plus or SQL Developer. This file contains the necessary table structures and data to populate the restaurant management database.
+3 Import SQL File: Locate the provided ".sql" file and import it into your Oracle 21C database using SQL*Plus or SQL Developer. This file contains the necessary table structures and data to populate the restaurant management database.
 
 ## Project Proposal:
 The project proposal outlines the objectives, scope, and key features of the **Restaurant Management System** project. It provides a detailed overview of the system's purpose, target audience, and expected functionality. The proposal also includes a timeline and resource allocation plan for the project's development.
