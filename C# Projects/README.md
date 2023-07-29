@@ -50,9 +50,8 @@ To use either of the calculators, follow the steps below:
 
 Contributions to this repository are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-### License
-
-This repository is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+### License:
+This project does not require a license as it is intended for **educational** purposes only. It should not be used for commercial purposes without proper authorization.
 
 ### Acknowledgments
 
