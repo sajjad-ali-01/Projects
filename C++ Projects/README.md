@@ -4,7 +4,7 @@
 This GitHub repository contains two C++ projects: a Library Management System and a Student Management System. These projects were developed to demonstrate different programming concepts and data structures.
 
 ### Library Management System
-The Library Management System is a C++ project that showcases the implementation of various data structures, including linked lists, queues, binary search trees (BST), and hashing. It allows users to manage a library's book collection efficiently.
+The Library Management System is a C++ project that showcases the implementation of various *data structures*, including linked lists, queues, binary search trees (BST), and hashing. It allows users to manage a library's book collection efficiently.
 
 ### Student Management System
 The Student Management System is a C++ project that demonstrates object-oriented programming (OOP) concepts. It allows administrators to manage student records efficiently.
