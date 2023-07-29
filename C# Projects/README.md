@@ -33,14 +33,12 @@ To use either of the calculators, follow the steps below:
 1. Navigate to the respective calculator's folder:
 
 - For the Simple Calculator:
-```
 - [SimpleCalculator](https://github.com/sajjad-ali-01/Projects/tree/main/C%23%20Projects/Calculator)
-```
+
 
 - For the GPA Calculator:
-```
 - [GPACalculator](https://github.com/sajjad-ali-01/Projects/tree/main/C%23%20Projects/GPA%20Calculator)
-```
+
 
 3. Open the solution file (`.sln`) in **Visual Studio 2019** or your preferred C# development environment.
 
