@@ -26,6 +26,6 @@ This Restaurant Management System project was developed by Mr SAJJAD ALI. If you
 This project does not require a license as it is intended for educational purposes only. It should not be used for commercial purposes without proper authorization.
 
 # Disclaimer:
-This Restaurant Management System project is a demonstration of skills and knowledge in database management using Oracle 21C software. It does not represent an actual restaurant or provide real-time data. The project should not be used for commercial purposes or in production systems without appropriate modifications and enhancements.
+This **Restaurant Management System** project is a demonstration of skills and knowledge in **database** management using **Oracle 21C** software. It does not represent an actual restaurant or provide real-time data. The project should not be used for commercial purposes or in production systems without appropriate modifications and enhancements.
 
 Enjoy using the Restaurant Management System!
