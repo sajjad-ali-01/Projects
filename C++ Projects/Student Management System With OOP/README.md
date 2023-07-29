@@ -1,6 +1,6 @@
 # Student Management System
 
-This repository contains the code for a Student Management System, which allows administrators, teachers, and students to manage student and teacher records. The system is implemented in C++.
+This repository contains the code for a Student Management System, which allows administrators, teachers, and students to manage student and teacher records. The system is implemented in C++ using oop(object oriented programing concepts).
 
 ## Features
 
