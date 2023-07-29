@@ -4,8 +4,8 @@ This repository contains two simple calculators implemented in **C#**: a basic *
 
 ### Contents
 
-- [Simple Calculator](./SimpleCalculator)
-- [GPA Calculator](./GPACalculator)
+- **Simple Calculator**
+- **GPA Calculator**
 
 ### Simple Calculator
 
