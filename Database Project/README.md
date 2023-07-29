@@ -1,5 +1,5 @@
 # Introduction:
-This project is a **Restaurant Management System** designed to store and manage data related to a restaurant's operations. It utilizes an **Oracle 21C** database to organize information such as restaurant details, menu items, reservations, orders, staff records, and more.
+This project is a **Restaurant Management System** designed to store and manage data related to a restaurant's operations. It utilizes an **Oracle 21C** ***database*** to organize information such as restaurant details, menu items, reservations, orders, staff records, and more.
 
 # Database Setup:
 Before setting up the Restaurant Management System project, ensure that you have the following software and components installed:
