@@ -19,6 +19,9 @@ This repository contains various projects developed using different technologies
 
 - **GPA Calculator**: The GPA Calculator is a Desktop application that calculates the Grade Point Average (GPA) based on the user's input of grades and credit hours for each course. The GPA is a numeric representation of a student's academic performance, and this calculator simplifies the process of calculating it.
 
+### Web Development Projects:
+This folder includes web development projects using HTML, CSS, JavaScript, and popular web frameworks. These projects showcase different web applications, including static websites, interactive web interfaces, and dynamic web applications.
+
 ## Contributing
 
 If you wish to contribute to any of the projects, follow the guidelines for contributing. Mention any coding standards or pull request processes to follow.
