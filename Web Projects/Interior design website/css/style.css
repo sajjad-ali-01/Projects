@@ -1,0 +1,429 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+  width: 100%;
+  height: 100hv;
+  position: relative;
+}
+.container-fluid{
+  width: 100%;
+  height: 100hv;
+  position: relative;
+}
+body{
+    background-color: azure;
+}
+.topbar {
+  padding: 0.5rem 6rem;
+  background:rgb(37, 170, 223);
+  font-family: 'Berlin Sans FB';
+}
+
+.info-content div span {
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.info-content p,
+.location-topbar p {
+  color: #fff;
+  font-size: 1.1rem;
+}
+.navbar-brand{
+    color: blue;
+    font-weight: 900;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+span{
+    color:rgb(8, 156, 107);
+}
+nav{
+    background-color:azure;
+    
+   
+}
+
+.nav-link{
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.nav-link{
+    color: black;
+    text-shadow: blue;
+}
+.nav-link:hover{
+    background-color: maroon;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+.btn {
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 0 3px #f1a80b;
+  background-color: #c802fa;
+  border: 0;
+  padding: 10px 20px;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 12px 0 12px 0;
+}
+.btn:hover {
+  color: #fff;
+  text-shadow: 0 0 3px #f1a80b;
+  background-color: #62007a;
+}
+.Login {
+  text-transform: uppercase;
+  color: #000;
+  text-shadow: 0 0 3px #f1a80b;
+  border: 2px solid maroon;
+  padding: 10px 20px;
+  font-size: 12px;
+  font-weight: 500;
+  border-radius: 12px 12px 12px 12px;
+}
+  .Login,learn {
+    text-transform: uppercase;
+    color: #000;
+    text-shadow: 0 0 3px #f1a80b;
+    border: 2px solid maroon;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 12px 12px 12px 12px;
+  }
+  .Login:hover{
+    color: #fff;
+    text-shadow: 0 0 3px #f1a80b;
+    background-color: maroon;
+  }
+  .active {
+    border-bottom: 2px solid burlywood;
+  }
+.active:hover{
+  border-bottom: 2px solid maroon;
+}
+  /* Hero Carousel
+--------------------- */
+.carousel-item {
+  position: relative;
+  height: 80vh;
+  min-height: 360px;
+  font-family: BerlinSansFBDemiBold;
+}
+
+.carousel-item1 {
+  background: -o-linear-gradient(45deg, rgba(35, 35, 35, 0.4), rgba(35, 35, 35, 0.7)), url('https://cdn.pixabay.com/photo/2017/08/27/10/16/interior-2685521__340.jpg');
+  background: linear-gradient(45deg, rgba(35, 35, 35, 0.4), rgba(35, 35, 35, 0.7)), url('https://cdn.pixabay.com/photo/2017/08/27/10/16/interior-2685521__340.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-item2 {
+  background: -o-linear-gradient(45deg, rgba(35, 35, 35, 0.4), rgba(35, 35, 35, 0.7)), url('https://cdn.pixabay.com/photo/2018/01/23/16/22/indoors-3101776_960_720.jpg');
+  background: linear-gradient(45deg, rgba(35, 35, 35, 0.4), rgba(35, 35, 35, 0.7)), url('https://cdn.pixabay.com/photo/2018/01/23/16/22/indoors-3101776_960_720.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-item3 {
+  background: -o-linear-gradient(45deg, rgba(35, 35, 35, 0.4), rgba(35, 35, 35, 0.7)), url('https://cdn.pixabay.com/photo/2017/10/01/00/52/home-office-2804083__340.jpg');
+  background: linear-gradient(45deg, rgba(35, 35, 35, 0.4), rgba(35, 35, 35, 0.7)), url('https://cdn.pixabay.com/photo/2017/10/01/00/52/home-office-2804083__340.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-caption {
+  width: 800px;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -55%);
+  -ms-transform: translate(-50%, -55%);
+  transform: translate(-50%, -55%);
+}
+
+.carousel-caption h5 {
+  font-size: 4rem;
+  font-weight: 800;
+}
+
+.carousel-caption p {
+  display: inline-block;
+  margin-top: 1.2rem;
+  padding: 1rem 1.8rem;
+  background: var(--color-base);
+}
+
+.carousel-caption p a {
+  color: #fff;
+  font-size: 1.3rem;
+}
+
+h2{
+  margin-top: 50px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  text-align: justify;
+}
+.Choice {
+  padding-top: 2em;
+	margin-bottom: 3.9em;
+}
+
+.Choice h1 {
+  border-left: 4px solid maroon;
+  margin-left: 1em;
+	margin-top: 1.3em;
+  padding-left: 1.2em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  margin-bottom: 1.5em;
+	border-bottom: 4px solid #fff;
+}
+@media screen and (max-width: 700px) {
+  .Choice h1 {
+    margin-left: 0.6em;
+    padding-left: 0.8em;
+  }
+}
+
+
+.Choice h1:hover {
+	border-bottom: 4px solid maroon;
+}
+.Choice .container .row .col-md-4 {
+  background-color: #ccc;
+  padding: 14em 0em 0.5em 0em;
+  text-align: center;
+  border: 1em solid #fff;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0.5em;
+}
+
+.Choice .container .row .col-md-4 h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  overflow: hidden;
+}
+
+.Choice .container .row .col-md-4:hover {
+  transform: scale(1.07);
+  transition-property: transform;
+  transition-duration: 0.7s;
+  transform-style: flat;
+}
+
+.Choice .container .row #ConferenceRome {
+  color:burlywood;
+  text-shadow: 1px 1px 0.3em black;
+  background-image: url('https://i.pinimg.com/236x/19/dc/9a/19dc9a74340410171c48ab3bfa3ffdc0.jpg');
+}
+
+.Choice .container .row #livingRoom {
+  color:rgb(143, 2, 2);
+  text-shadow: 1.5px 1.5px 0.3em #000;
+  background-image: url('https://i.pinimg.com/474x/a1/d3/2b/a1d32b5794772a18a03fe51b239da296.jpg');
+}
+
+.Choice .container .row #BedRoom {
+  color:#e4e2db;
+  text-shadow: 1px 1px 0.3em #000;
+  background-image: url('https://i.pinimg.com/236x/3f/27/ff/3f27ffdefdcc3c06383f526e493760fc.jpg');
+}
+
+.Choice .container .row #Kitchen {
+  color:#000;
+  text-shadow: 1px 1px 0.3em #D4D4D4;
+  background-image: url('https://i.pinimg.com/236x/0b/53/55/0b53554456a3a536d2e4967e3748bdd5.jpg');
+}
+
+.Choice .container .row #office{
+  color:grey;
+  text-shadow: 1px 1px 0.2em #000;
+  background-image: url('https://i.pinimg.com/236x/72/d0/d0/72d0d088ef4953594729add97b58259b.jpg');
+}
+
+.Choice .container .row #DrawingRoom{
+  color:#faefb6;
+  text-shadow: 1px 1px 0.3em #000;
+  background-image: url('https://i.pinimg.com/236x/e6/15/be/e615be854aa2e2f8c66ad17b572b979c.jpg');
+}
+
+.Choice .container .row #Restaurant {
+  color:#ddc704;
+  text-shadow: 1px 1px 0.3em #000;
+  background-image: url('https://i.pinimg.com/236x/44/32/cb/4432cbf110bcdad9ef6b5d0256bd6958.jpg');
+}
+
+.Choice .container .row #BathRoom {
+  color:#002703;
+  text-shadow: 1px 1px 0.3em #fff;
+  background-image: url('https://i.pinimg.com/236x/34/aa/0e/34aa0e2e70ce32d700074bfc05d89c16.jpg');
+}
+
+.Choice .container .row #Cafe {
+  color:#bb0067;
+  text-shadow: 1px 1px 0.3em #000;
+  background-image: url('https://i.pinimg.com/236x/6c/3c/f4/6c3cf4d7a697d56995c22002c585fd02.jpg');
+}
+
+.Choice .container .row #Clinic {
+  color: #fbaed2;
+  text-shadow: 1px 1px 0.3em #000;
+  background-image: url('https://i.pinimg.com/236x/43/fe/6f/43fe6f743412352a178ae908967c7a75.jpg');
+}
+
+.Choice .container .row #beautySalon {
+  color:#aa5f2a;
+  text-shadow: 1px 1px 0.3em #000;
+  background-image: url('https://i.pinimg.com/236x/aa/a7/0c/aaa70c6ae31dc8c9a7c1c2a268739e9f.jpg');
+}
+
+.Choice .container .row #Shop {
+  color:#2e1503;
+  text-shadow: 1px 1px 0.3em #fff;
+  background-image: url('https://i.pinimg.com/236x/ad/c7/d0/adc7d029fd40fec0ceb21185081e3a4f.jpg');
+}
+.working-plan{
+  padding-top: 50px;
+  padding-bottom: 50px;
+	background-image: linear-gradient(rgba(10, 10, 10, 0.9),rgba(10, 10, 10, 0.9)),url('https://decoredesignz.com/wp-content/uploads/2022/07/8.jpg');
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	background-attachment: fixed;
+}
+.working-plan .container p{
+	font-size: 18px;
+  line-height: 1.7em;
+	color: #fff;
+	margin-bottom: 2em;
+	text-align: center;
+}
+.working-plan .sec-title{
+	color: #0000;
+}
+.working-plan .sec-title h2 {
+	border-left: 4px solid maroon;
+  margin-left: 2em;
+	margin-top: 1.3em;
+  padding-left: 1.2em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  margin-bottom: 1.2em;
+	font-size: 2.5em;
+	text-align: left;
+}
+@media screen and (max-width:769px) {
+	.working-plan .sec-title h2 {
+		margin-left: 0.6em;
+		padding-left: 0.8em;
+	}
+}
+.working-plan .sec-title h2 {
+	margin-left: 0.6em;
+	padding-left: 0.8em;
+}
+.working-plan .sec-title p {
+  font-size: 18px;
+  line-height: 32px;
+  margin: 16px 0 0px;
+	color: #fff;
+	padding-left: 10em;
+	padding-right: 10em;
+	padding-bottom: 4em;
+}
+.working-plan .single-working-item {
+  padding-bottom: 40px;
+}
+.working-plan .single-working-item .icon-box {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #f7f7f7;
+  border-radius: 50%;
+  display: block;
+  height: 180px;
+  padding: 9px;
+  position: relative;
+  width: 180px;
+  margin: 0 auto;
+  transition: all 500ms ease;
+}
+
+.working-plan .single-working-item .icon-box .icon {
+  background: rgb(200, 200, 200) none repeat scroll 0 0;
+  border-radius: 50%;
+  display: block;
+  height: 160px;
+  width: 160px;
+  text-align: center;
+  line-height: 160px;
+  color: maroon;
+  font-size: 50px;
+  transition: all 500ms ease;
+}
+.working-plan .single-working-item .icon-box .icon span:before{
+  font-size: 50px;
+	margin: auto auto;
+}
+.working-plan .single-working-item .icon-box .count {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid #f7f7f7;
+  border-radius: 50%;
+  display: block;
+  height: 45px;
+  left: 5px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 45px;
+  transition: all 500ms ease;
+}
+.working-plan .single-working-item .icon-box .count h3 {
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 700;
+  transition: all 500ms ease;
+}
+
+.working-plan .single-working-item .text-box h3 {
+  color: rgb(252, 9, 9);
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: capitalize;
+  margin: 21px 0 9px;
+}
+.working-plan .single-working-item .text-box p {
+  margin: 0;
+	color: #fff;
+}
+.working-plan .single-working-item:hover .icon-box{
+  background: maroon;
+}
+.working-plan .single-working-item:hover .icon-box .count{
+  background: maroon;
+}
+.working-plan .single-working-item:hover .icon-box .count h3{
+  color: maroon;
+}
+#footer{
+  color: #fff;
+}
+
+
