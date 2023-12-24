@@ -28,4 +28,4 @@ If you wish to contribute to any of the projects, follow the guidelines for cont
 
 ## Contact
 
-This Restaurant Management System project was developed by Mr SAJJAD ALI. If you have any suggestions or feedback, please reach out to me at "sajjadshazii116@gmail.com".
+These projects was developed by Mr SAJJAD ALI. If you have any suggestions or feedback, please reach out to me at "sajjadshazii116@gmail.com".
