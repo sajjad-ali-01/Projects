@@ -7,7 +7,7 @@ This repository contains various projects developed using different technologies
 ## Projects
 
 ### JAVA
-- ** Pharmacy Management System**: Pharmacy Management System in java swing gui developed in IntelliJ IDEA. Efficiently manage inventory, handle records of expiry and out of Stock items, print bills . Streamline operations with intuitive interfaces and robust data handling.
+- **Pharmacy Management System**: Pharmacy Management System in java swing gui developed in IntelliJ IDEA. Efficiently manage inventory, handle records of expiry and out of Stock items, print bills . Streamline operations with intuitive interfaces and robust data handling.
 
 ### C++
 - **Student Management System**: The Student Management System is a C++ project that demonstrates **object-oriented programming (OOP)** concepts. It allows administrators to manage student records efficiently.
